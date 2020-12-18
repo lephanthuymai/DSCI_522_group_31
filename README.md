@@ -2,7 +2,7 @@
 Online Purchasing Intention Predictor
 =====================================
 
--   Co-authors: Yazan Saleh, Mai Le, Tran Doan Khanh Vu, Jingjing Zhi
+Co-authors: Mai Le, Yazan Saleh, Tran Doan Khanh Vu, Jingjing Zhi
 
 A data analysis project aiming to predict purchasing intentions of
 online shoppers.
